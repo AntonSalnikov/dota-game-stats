@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: it
+
+logging:
+  level:
+    gg:
+      bayes: trace
